@@ -1,0 +1,12 @@
+import joblib
+
+# 1. Save the Vectorizer (The 'brain' that knows the words)
+joblib.dump(tfidf, 'tfidf_vectorizer.pkl')
+
+# 2. Save the Feature Matrix (The processed numerical data)
+joblib.dump(X, 'tfidf_features.pkl')
+
+# 3. Save the Labels (The 'fraudulent' column)
+joblib.dump(y, 'labels.pkl')
+
+print("TF-IDF models and features saved successfully!")

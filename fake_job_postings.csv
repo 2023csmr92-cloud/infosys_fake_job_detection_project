@@ -1,0 +1,6 @@
+job_id,title,location,department,salary_range,company_profile,description,requirements,benefits,telecommuting,has_company_logo,has_questions,fraudulent
+1,Software Engineer,New York,IT,60000-80000,Good tech company,Develop software applications,Python Java SQL,Health insurance,0,1,1,0
+2,Data Analyst,Bangalore,Analytics,50000-70000,Startup company,Analyze company data,Excel Python Statistics,Flexible hours,0,1,0,0
+3,Work From Home Job,Remote,,100000+,No company info,Easy money from home,No skills required,,1,0,0,1
+4,HR Executive,Delhi,HR,30000-40000,Well known firm,Handle recruitment activities,Communication skills,PF ESI,0,1,1,0
+5,Online Survey Job,Remote,,High income guaranteed,Unknown,Pay fees and earn money,No experience needed,,1,0,0,1
